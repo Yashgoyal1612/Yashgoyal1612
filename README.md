@@ -6,10 +6,9 @@
 </p>
 
 - 🔭 I’m currently working on DSA 
-- 🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently currently working on WEB DEVELOPMENT
 - 👯 I’m looking to collaborate on JAVA
-- 🤔 I’m looking for help with WEB DEVELOPMENT
-- 💬 Ask me about CS
+- 💬 Ask me about APP DEVELOPMENT and CS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashgoyal1612&label=Profile%20views&color=46034b&style=flat" alt="ThakurSahab" /> 
 </p>
@@ -17,16 +16,16 @@
 I am Yash Goyal, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunjadon.se@gmail.com)](mailto:varunjadon.se@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-jadon-280b5721a/)](https://www.linkedin.com/in/varun-jadon-280b5721a/)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/varunjadon/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunjadon.se@gmail.com)](mailto:yashgoyal1620@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-goyal-b42b5b205/)](https://www.linkedin.com/in/yash-goyal-b42b5b205/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yashgiyal620/)
 
 
 <p align="center">
 <img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
 
-[![Varun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Yashgoyal1612&theme=xcode)](https://github.com/Yashgoyal1612)
+[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Yashgoyal1612&theme=xcode)](https://github.com/Yashgoyal1612)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashgoyal1612" alt="Yashgoyal1612" /></a> </p>
 
