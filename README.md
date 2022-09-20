@@ -18,7 +18,7 @@ I am Yash Goyal, currently pursuing my B.Tech degree in Computer Science from GL
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunjadon.se@gmail.com)](mailto:yashgoyal1620@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-goyal-b42b5b205/)](https://www.linkedin.com/in/yash-goyal-b42b5b205/)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yashgiyal620/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yashgoyal620/)
 
 
 <p align="center">
