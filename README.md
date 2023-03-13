@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashgoyal1612&label=Profile%20views&color=46034b&style=flat" alt="ThakurSahab" /> 
 </p>
 
-<!-- I am Yash Goyal, currently pursuing B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: -->4
+<!-- I am Yash Goyal, currently pursuing B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: -->
 
 As a detail-oriented individual, I prioritize delivering results with excellence.I believe that attention to detail is essential in achieving success, and I strive to bring that same level of dedication to every project I undertake.
 
