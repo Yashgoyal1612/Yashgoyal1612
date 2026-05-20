@@ -61,7 +61,7 @@ I’m passionate about building scalable systems, automating workflows, and work
 - **Email**: yashgoyal1620@gmail.com  
 - **LinkedIn**: [linkedin.com/in/yash-goyal-b42b5b205](https://linkedin.com/in/yash-goyal-b42b5b205)  
 - **Portfolio**: [yashgoyal1612.github.io/Portfolio.github.io](https://yashgoyal1612.github.io/Portfolio.github.io/)  
-- **Resume**: [View here](https://drive.google.com/file/d/1tTsg6qcntsuVQrhQ6UApaXyDLrf1GTYl/view?usp=sharing)  
+- **Resume**: [View here](https://drive.google.com/file/d/1veQ7n5MQ0XPCRoUOOWz1OBfLy0gWoyht/view?usp=sharing)  
 
 ---
 
